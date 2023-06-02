@@ -1,0 +1,2 @@
+This folder contains the code of the original [Yocto/GL](https://github.com/xelatihy/yocto-gl) path tracer and the one of the hair shading
+that follows [pbrt](https://www.pbrt.org/hair.pdf).
