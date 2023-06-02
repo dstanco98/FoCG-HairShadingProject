@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc /Users/donatostanco/Desktop/yocto-gl/bin/libcgltf.a CMakeFiles/cgltf.dir/cgltf/cgltf.c.o CMakeFiles/cgltf.dir/cgltf/cgltf_write.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib /Users/donatostanco/Desktop/yocto-gl/bin/libcgltf.a

@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc /Users/donatostanco/Desktop/yocto-gl/bin/libstb_image.a CMakeFiles/stb_image.dir/stb_image/stb_image.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib /Users/donatostanco/Desktop/yocto-gl/bin/libstb_image.a
